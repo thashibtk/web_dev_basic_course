@@ -1,0 +1,18 @@
+body {
+    background-image: url("pexels-felix-mittermeier-956981.jpg");
+    background-color: #cccccc;
+   }
+
+   h1{
+       font-size: x-large;
+       font-style: normal;
+       color: white;
+       word-spacing: 5px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+   h2{
+       color: white;
+       font-size: x-large;
+       font-weight: 200;
+       font-family: sans-serif;
+   }

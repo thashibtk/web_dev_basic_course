@@ -1,0 +1,51 @@
+.first>h1{
+    text-decoration: overline;
+  }
+  
+  .first> h2 {
+    text-decoration: line-through;
+  }
+  
+  .first>h3 {
+    text-decoration: underline;
+  }
+  
+  .first> h4 {
+    text-decoration: underline overline;
+  }
+
+  .second>h1{
+      text-align: center;
+  }
+  .second>h2{
+    text-align: center;
+}
+.second>p{
+    text-align: center;
+}
+.second>.left{
+    text-align: left;
+}
+.second>.right{
+    text-align: right;
+}
+.second{
+    margin-bottom: 100px;
+}
+.a{
+    text-transform: uppercase;
+}
+.b{
+    text-transform: lowercase;
+}
+.c{
+    text-transform: capitalize;
+}
+.four{
+    margin-top: 50px;
+}
+.line{
+    height: 5px;
+    width: 500px;
+    background-color: black;
+}

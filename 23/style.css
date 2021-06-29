@@ -1,0 +1,103 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.start{
+    font-size: larger;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+#middle{
+    font-size: larger;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    word-spacing: 5px;
+}
+.end{
+    font-size: larger;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.parent1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child1{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 4px solid black;
+}
+.parent2{
+    display: flex;
+    justify-content: space-between;
+}
+.child2{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 4px solid black;
+}
+.parent3{
+    display: flex;
+    justify-content: space-between;
+}
+.child3{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 4px solid black;
+}
+.parent4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child4{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 4px solid black;
+
+}
+.firstbox{
+    padding: 10px;
+    border: 3px solid black;
+    margin: 5px;
+}
+.secondbox{
+    padding: 10px;
+    border: 3px solid black;
+    margin: 5px;
+}
+.thirdbox{
+    padding: 10px;
+    border: 3px solid black;
+    margin: 5px;
+}
+.forthbox{
+    padding: 10px;
+    border: 3px solid black;
+    margin: 5px;
+    margin-bottom: 50px;
+    
+}
+input{
+    width: 25px;
+    height: 25px;   
+}
+.four{
+    margin-top: 100px;
+}
